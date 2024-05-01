@@ -1,3 +1,5 @@
+[![Ruby Testing Workflow](https://github.com/bnelford/ruby-nth-prime/actions/workflows/ruby.yml/badge.svg)](https://github.com/bnelford/ruby-nth-prime/actions/workflows/ruby.yml)
+
 # Nth Prime
 
 Given a number n, determine what the nth prime is.
